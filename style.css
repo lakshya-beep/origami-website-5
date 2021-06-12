@@ -18,6 +18,15 @@ color:#0015ff;
     background-image: url("b.jpg");
 }
 
+.about{
+    margin-top: -1%;
+    margin-left: 70%;
+}
+
+.project {
+    margin-left: 50%;
+}
+
 .animals{
     display:flex;
     flex-wrap: wrap;
@@ -55,9 +64,9 @@ opacity: 0;
     }
     
 a:link{
-color: #ff8585;
+color: #000000;
 }
 
 a:visited{
-color: #ff8585;
+color: #000000;
 }
